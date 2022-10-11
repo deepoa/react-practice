@@ -19,7 +19,7 @@ const App = () => {
       {/* <Fetch /> */}
       {/* <Child getData={getData} clickRaw={clickRaw} /> */}
       {/* <Hooks /> */}
-      <Hooks2 />
+      {/* <Hooks2 /> */}
     </div>
   );
 };
